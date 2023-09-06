@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boredashish and I am not actually bored. I am busy coding. 😁
+- 👋 Hi, I’m @0daysavior and I am not actually bored. I am busy coding. 😁
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on coding.
